@@ -3,5 +3,6 @@ aiohttp
 g4f
 Pillow
 rembg
-numpy
 opencv-python-headless
+onnxruntime
+numpy
