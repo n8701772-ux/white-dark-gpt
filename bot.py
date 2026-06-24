@@ -10,8 +10,6 @@ import base64
 import io
 from PIL import Image, ImageDraw, ImageFilter
 import random
-import rembg
-import numpy as np
 
 # --- ПЕРЕМЕННЫЕ ОКРУЖЕНИЯ (ТОКЕН НЕ ВИДЕН В КОДЕ) ---
 TELEGRAM_TOKEN = os.getenv("TELEGRAM_TOKEN")

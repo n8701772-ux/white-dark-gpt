@@ -2,7 +2,3 @@ aiogram
 aiohttp
 g4f
 Pillow
-rembg
-opencv-python-headless
-onnxruntime
-numpy
